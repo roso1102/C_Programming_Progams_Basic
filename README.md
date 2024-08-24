@@ -36,10 +36,5 @@ Feel free to fork this repository and contribute your own basic C programs! Here
 
 This repository is licensed under the MIT License (see the LICENSE file for details). Feel free to use and modify the code for personal or educational purposes.
 
-**Template for Future READMEs**
-
-Here's a template you can use for your future READMEs:
-
-
 
 
