@@ -4,11 +4,12 @@ This repository contains a collection of basic C programs that I've created to p
 **Programs:**
 
 * Here are the programs that are in the list and will be updated as I keep adding new programs
-    1) for-loop : This code demonstrates basic nested loops in C to calculate the sum of two variables (r and c) and display the results along with their corresponding values. It iterates through two nested loops, one for the row r (1 to 3) and another for the column c 
-                  (1 to 2).
+    1) for-loop : This code demonstrates basic nested loops in C to calculate the sum of two variables (r and c) and 
+       display the results along with their corresponding values. It iterates through two nested loops, one for the row r 
+       (1 to 3) and another for the column c (1 to 2).
  
-    2)
-     
+    2) while_loop : The code implements a simple while loop in C that iterates from 1 to 9, printing each number to the 
+       console. The loop continues as long as the value of a is less than 10.
 
 
 This is how you can utilize the code I've in my repository
